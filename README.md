@@ -15,6 +15,9 @@ Three graded assignments also included.
 
 Links:
 https://snakify.org/
+
 http://www.practicepython.org/
+
 https://media.readthedocs.org/pdf/python-guide/latest/python-guide.pdf
+
 http://tdc-www.harvard.edu/Python.pdf
